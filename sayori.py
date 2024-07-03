@@ -68,7 +68,7 @@ bot = Bot(command_prefix=COMMAND_PREFIX,
           owner_ids=[1063386002955190312]
         )
 
-bot.sayori_thread_id =  1253816796947943515 # (Thread For storing messages)
+bot.sayori_thread_id =  1254613557958541403 # (Thread For storing messages)
 
 
 
